@@ -1,0 +1,11 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Customer Type,latitude,longitude,Pin code,Feedback
+22,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9766,77.5993,560001,Positive
+24,Female,Single,Student,Below Rs.10000,Graduate,3,Regular,12.977,77.5773,560009,Positive
+28,Male,Married,Employee,More than 50000,Post Graduate,4,Frequent,12.9783,77.6408,560038,Positive
+26,Female,Single,Employee,25001 to 50000,Graduate,2,Regular,12.8845,77.6036,560076,Positive
+30,Male,Married,Self Employeed,More than 50000,Graduate,5,Frequent,12.9698,77.75,560066,Positive
+25,Female,Married,House wife,No Income,Graduate,4,Regular,12.9337,77.59,560011,Positive
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995,560046,Negative 
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0298,77.6047,560032,Negative 
+22,Male,Married,Employee,No Income,Graduate,2,New,13.0012,77.5995,560046,Negative 
+22,Male,Married,Student,More than 50000,Post Graduate,4,New,13.0012,77.5995,560046,Negative 
